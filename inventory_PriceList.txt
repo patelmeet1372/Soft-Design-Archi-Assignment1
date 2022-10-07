@@ -1,0 +1,6 @@
+RedApple $2.00
+RoyalGalaApple $2.50
+GreenApple $2.75
+RawBanana $1.00
+MexicanBanana $1.50
+RipeBanana $1.35
